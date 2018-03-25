@@ -1,0 +1,2 @@
+# Collatz
+Exercise 3
