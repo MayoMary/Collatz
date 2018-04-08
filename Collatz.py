@@ -6,7 +6,9 @@
 # n != 1....reads as 'n does not equal 1' 
 
 n = input ("Please type a positive number between 1 and 100: ")
+# Asking the user for input
 n=int(n)
+# int function is how to read integers as numbers
 print (n)
 
 while n != 1:
